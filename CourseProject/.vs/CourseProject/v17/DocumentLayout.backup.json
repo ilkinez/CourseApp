@@ -3,6 +3,102 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78523FB6-5FCA-4B0C-8DD0-18385AFBD7A8}|CourseProject\\CourseProject.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78523FB6-5FCA-4B0C-8DD0-18385AFBD7A8}|CourseProject\\CourseProject.csproj|solutionrelative:courseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78523FB6-5FCA-4B0C-8DD0-18385AFBD7A8}|CourseProject\\CourseApp.Presentation.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseproject\\controllers\\coursegroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78523FB6-5FCA-4B0C-8DD0-18385AFBD7A8}|CourseProject\\CourseApp.Presentation.csproj|solutionrelative:courseproject\\controllers\\coursegroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78523FB6-5FCA-4B0C-8DD0-18385AFBD7A8}|CourseProject\\CourseApp.Presentation.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78523FB6-5FCA-4B0C-8DD0-18385AFBD7A8}|CourseProject\\CourseApp.Presentation.csproj|solutionrelative:courseproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78523FB6-5FCA-4B0C-8DD0-18385AFBD7A8}|CourseProject\\CourseApp.Presentation.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseproject\\courseapp.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78523FB6-5FCA-4B0C-8DD0-18385AFBD7A8}|CourseProject\\CourseApp.Presentation.csproj|solutionrelative:courseproject\\courseapp.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4E2B56-9E8F-44C8-8976-D078DBBAD79B}|CourseApp.Domain\\CourseApp.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.domain\\enums\\studentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4E2B56-9E8F-44C8-8976-D078DBBAD79B}|CourseApp.Domain\\CourseApp.Domain.csproj|solutionrelative:courseapp.domain\\enums\\studentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4E2B56-9E8F-44C8-8976-D078DBBAD79B}|CourseApp.Domain\\CourseApp.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.domain\\enums\\coursegroupmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4E2B56-9E8F-44C8-8976-D078DBBAD79B}|CourseApp.Domain\\CourseApp.Domain.csproj|solutionrelative:courseapp.domain\\enums\\coursegroupmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4E2B56-9E8F-44C8-8976-D078DBBAD79B}|CourseApp.Domain\\CourseApp.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.domain\\courseapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA4E2B56-9E8F-44C8-8976-D078DBBAD79B}|CourseApp.Domain\\CourseApp.Domain.csproj|solutionrelative:courseapp.domain\\courseapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.service\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|solutionrelative:courseapp.service\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.service\\services\\implementations\\coursegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|solutionrelative:courseapp.service\\services\\implementations\\coursegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.service\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|solutionrelative:courseapp.service\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.service\\services\\interfaces\\icoursegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|solutionrelative:courseapp.service\\services\\interfaces\\icoursegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.service\\courseapp.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|solutionrelative:courseapp.service\\courseapp.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.service\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|solutionrelative:courseapp.service\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.service\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|solutionrelative:courseapp.service\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.service\\exceptions\\emptylistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|solutionrelative:courseapp.service\\exceptions\\emptylistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.service\\exceptions\\argumentnegativeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|solutionrelative:courseapp.service\\exceptions\\argumentnegativeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.service\\exceptions\\alreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BB5E74-AB87-4FBE-9EBF-9DDF2FB0228C}|CourseApp.Service\\CourseApp.Service.csproj|solutionrelative:courseapp.service\\exceptions\\alreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60825795-9C76-44D4-97A7-235C6695A763}|CourseApp.Repository\\CourseApp.Repository.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.repository\\repositories\\services\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60825795-9C76-44D4-97A7-235C6695A763}|CourseApp.Repository\\CourseApp.Repository.csproj|solutionrelative:courseapp.repository\\repositories\\services\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60825795-9C76-44D4-97A7-235C6695A763}|CourseApp.Repository\\CourseApp.Repository.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.repository\\repositories\\services\\coursegrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60825795-9C76-44D4-97A7-235C6695A763}|CourseApp.Repository\\CourseApp.Repository.csproj|solutionrelative:courseapp.repository\\repositories\\services\\coursegrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60825795-9C76-44D4-97A7-235C6695A763}|CourseApp.Repository\\CourseApp.Repository.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.repository\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60825795-9C76-44D4-97A7-235C6695A763}|CourseApp.Repository\\CourseApp.Repository.csproj|solutionrelative:courseapp.repository\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60825795-9C76-44D4-97A7-235C6695A763}|CourseApp.Repository\\CourseApp.Repository.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.repository\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60825795-9C76-44D4-97A7-235C6695A763}|CourseApp.Repository\\CourseApp.Repository.csproj|solutionrelative:courseapp.repository\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60825795-9C76-44D4-97A7-235C6695A763}|CourseApp.Repository\\CourseApp.Repository.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.repository\\repositories\\interfaces\\icoursegrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60825795-9C76-44D4-97A7-235C6695A763}|CourseApp.Repository\\CourseApp.Repository.csproj|solutionrelative:courseapp.repository\\repositories\\interfaces\\icoursegrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60825795-9C76-44D4-97A7-235C6695A763}|CourseApp.Repository\\CourseApp.Repository.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.repository\\courseapp.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60825795-9C76-44D4-97A7-235C6695A763}|CourseApp.Repository\\CourseApp.Repository.csproj|solutionrelative:courseapp.repository\\courseapp.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60825795-9C76-44D4-97A7-235C6695A763}|CourseApp.Repository\\CourseApp.Repository.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.repository\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60825795-9C76-44D4-97A7-235C6695A763}|CourseApp.Repository\\CourseApp.Repository.csproj|solutionrelative:courseapp.repository\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA4E2B56-9E8F-44C8-8976-D078DBBAD79B}|CourseApp.Domain\\CourseApp.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.domain\\models\\shared\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA4E2B56-9E8F-44C8-8976-D078DBBAD79B}|CourseApp.Domain\\CourseApp.Domain.csproj|solutionrelative:courseapp.domain\\models\\shared\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FA4E2B56-9E8F-44C8-8976-D078DBBAD79B}|CourseApp.Domain\\CourseApp.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseapp.domain\\models\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA4E2B56-9E8F-44C8-8976-D078DBBAD79B}|CourseApp.Domain\\CourseApp.Domain.csproj|solutionrelative:courseapp.domain\\models\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78523FB6-5FCA-4B0C-8DD0-18385AFBD7A8}|CourseProject\\CourseProject.csproj|c:\\users\\user\\onedrive\\desktop\\mymaincourse\\courseproject\\courseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78523FB6-5FCA-4B0C-8DD0-18385AFBD7A8}|CourseProject\\CourseProject.csproj|solutionrelative:courseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +118,323 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseProject\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CourseProject\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseProject\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CourseProject\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T22:02:34.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseGroupController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseProject\\Controllers\\CourseGroupController.cs",
+              "RelativeDocumentMoniker": "CourseProject\\Controllers\\CourseGroupController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseProject\\Controllers\\CourseGroupController.cs",
+              "RelativeToolTip": "CourseProject\\Controllers\\CourseGroupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T22:02:11.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseApp.Presentation",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseProject\\CourseApp.Presentation.csproj",
+              "RelativeDocumentMoniker": "CourseProject\\CourseApp.Presentation.csproj",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseProject\\CourseApp.Presentation.csproj",
+              "RelativeToolTip": "CourseProject\\CourseApp.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T22:00:50.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentMethods.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Domain\\Enums\\StudentMethods.cs",
+              "RelativeDocumentMoniker": "CourseApp.Domain\\Enums\\StudentMethods.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Domain\\Enums\\StudentMethods.cs",
+              "RelativeToolTip": "CourseApp.Domain\\Enums\\StudentMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:58:08.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseGroupMethods.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Domain\\Enums\\CourseGroupMethods.cs",
+              "RelativeDocumentMoniker": "CourseApp.Domain\\Enums\\CourseGroupMethods.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Domain\\Enums\\CourseGroupMethods.cs",
+              "RelativeToolTip": "CourseApp.Domain\\Enums\\CourseGroupMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:57:52.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseProject\\Program.cs",
+              "RelativeDocumentMoniker": "CourseProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseProject\\Program.cs",
+              "RelativeToolTip": "CourseProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:12:27.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseApp.Domain",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Domain\\CourseApp.Domain.csproj",
+              "RelativeDocumentMoniker": "CourseApp.Domain\\CourseApp.Domain.csproj",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Domain\\CourseApp.Domain.csproj",
+              "RelativeToolTip": "CourseApp.Domain\\CourseApp.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T21:57:33.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Services\\Implementations\\StudentService.cs",
+              "RelativeDocumentMoniker": "CourseApp.Service\\Services\\Implementations\\StudentService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Services\\Implementations\\StudentService.cs",
+              "RelativeToolTip": "CourseApp.Service\\Services\\Implementations\\StudentService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAYwHAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:54:31.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Services\\Implementations\\CourseGroupService.cs",
+              "RelativeDocumentMoniker": "CourseApp.Service\\Services\\Implementations\\CourseGroupService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Services\\Implementations\\CourseGroupService.cs",
+              "RelativeToolTip": "CourseApp.Service\\Services\\Implementations\\CourseGroupService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAIwH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:54:14.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "CourseApp.Service\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "CourseApp.Service\\Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:53:05.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICourseGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Services\\Interfaces\\ICourseGroupService.cs",
+              "RelativeDocumentMoniker": "CourseApp.Service\\Services\\Interfaces\\ICourseGroupService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Services\\Interfaces\\ICourseGroupService.cs",
+              "RelativeToolTip": "CourseApp.Service\\Services\\Interfaces\\ICourseGroupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:52:56.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Helpers\\Helper.cs",
+              "RelativeDocumentMoniker": "CourseApp.Service\\Helpers\\Helper.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Helpers\\Helper.cs",
+              "RelativeToolTip": "CourseApp.Service\\Helpers\\Helper.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwFsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:50:43.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseApp.Service",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\CourseApp.Service.csproj",
+              "RelativeDocumentMoniker": "CourseApp.Service\\CourseApp.Service.csproj",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\CourseApp.Service.csproj",
+              "RelativeToolTip": "CourseApp.Service\\CourseApp.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T21:50:26.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArgumentNegativeException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Exceptions\\ArgumentNegativeException.cs",
+              "RelativeDocumentMoniker": "CourseApp.Service\\Exceptions\\ArgumentNegativeException.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Exceptions\\ArgumentNegativeException.cs",
+              "RelativeToolTip": "CourseApp.Service\\Exceptions\\ArgumentNegativeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:47:10.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmptyListException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Exceptions\\EmptyListException.cs",
+              "RelativeDocumentMoniker": "CourseApp.Service\\Exceptions\\EmptyListException.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Exceptions\\EmptyListException.cs",
+              "RelativeToolTip": "CourseApp.Service\\Exceptions\\EmptyListException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:47:31.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "CourseApp.Service\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "CourseApp.Service\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:47:39.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AlreadyExistsException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Exceptions\\AlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "CourseApp.Service\\Exceptions\\AlreadyExistsException.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Service\\Exceptions\\AlreadyExistsException.cs",
+              "RelativeToolTip": "CourseApp.Service\\Exceptions\\AlreadyExistsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:46:54.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Repository\\Repositories\\Services\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "CourseApp.Repository\\Repositories\\Services\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Repository\\Repositories\\Services\\StudentRepository.cs",
+              "RelativeToolTip": "CourseApp.Repository\\Repositories\\Services\\StudentRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:41:43.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CourseGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Repository\\Repositories\\Services\\CourseGroupRepository.cs",
+              "RelativeDocumentMoniker": "CourseApp.Repository\\Repositories\\Services\\CourseGroupRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Repository\\Repositories\\Services\\CourseGroupRepository.cs",
+              "RelativeToolTip": "CourseApp.Repository\\Repositories\\Services\\CourseGroupRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:41:20.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Repository\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "CourseApp.Repository\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Repository\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "CourseApp.Repository\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:40:47.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Repository\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "CourseApp.Repository\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Repository\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "CourseApp.Repository\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:40:27.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICourseGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Repository\\Repositories\\Interfaces\\ICourseGroupRepository.cs",
+              "RelativeDocumentMoniker": "CourseApp.Repository\\Repositories\\Interfaces\\ICourseGroupRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Repository\\Repositories\\Interfaces\\ICourseGroupRepository.cs",
+              "RelativeToolTip": "CourseApp.Repository\\Repositories\\Interfaces\\ICourseGroupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:39:20.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CourseApp.Repository",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Repository\\CourseApp.Repository.csproj",
+              "RelativeDocumentMoniker": "CourseApp.Repository\\CourseApp.Repository.csproj",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Repository\\CourseApp.Repository.csproj",
+              "RelativeToolTip": "CourseApp.Repository\\CourseApp.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T21:38:15.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Repository\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CourseApp.Repository\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Repository\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "CourseApp.Repository\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:37:50.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Domain\\Models\\Shared\\BaseEntity.cs",
               "RelativeDocumentMoniker": "CourseApp.Domain\\Models\\Shared\\BaseEntity.cs",
@@ -43,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 25,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Domain\\Models\\Student.cs",
               "RelativeDocumentMoniker": "CourseApp.Domain\\Models\\Student.cs",
@@ -56,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 26,
               "Title": "CourseGroup.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseApp.Domain\\Models\\CourseGroup.cs",
               "RelativeDocumentMoniker": "CourseApp.Domain\\Models\\CourseGroup.cs",
@@ -65,19 +469,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T21:30:53.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseProject\\Program.cs",
-              "RelativeDocumentMoniker": "CourseProject\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyMainCourse\\CourseProject\\CourseProject\\Program.cs",
-              "RelativeToolTip": "CourseProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T21:12:27.252Z",
               "EditorCaption": ""
             }
           ]
